@@ -24,6 +24,11 @@ API para la administración de médicos y pacientes
 
 </br>
 
+## Colección de peticiones
+
+
+</br>
+
 >[!IMPORTANT]
 >* Crea la base de datos con el nombre 'vollmedapi'
 >* Reemplaza las credenciales de acceso a la bd en el archivo application.properties
