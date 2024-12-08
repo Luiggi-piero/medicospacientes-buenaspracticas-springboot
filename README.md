@@ -2,6 +2,9 @@
 API para la administración de médicos y pacientes
 
 ## Funcionalidades
+- [x] Login: user: diego.rojas  pass: 123456
+* Obtener el token
+- [x] Permitir la siguientes peticiones con el token de autenticación
 - [x] Crear médicos
 - [x] Crear pacientes
 - [x] Actualización de médicos
