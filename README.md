@@ -22,8 +22,6 @@ API para la administración de médicos y pacientes
 * El listado solo debe retornar Médicos activos
 
 
-</br>
-
 ## Colección de peticiones
 [Insomnia_vollmedapi.zip](https://github.com/user-attachments/files/18053329/Insomnia_2024-12-08_vollmedapi.zip)
 
